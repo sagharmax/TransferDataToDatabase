@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.202
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TransferDataToDatabase", "TransferDataToDatabase\TransferDataToDatabase.csproj", "{3FF12DF1-A152-4E43-8250-DA9FFCE422B8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TransferDataToDatabase.Common", "TransferDataToDatabase.Common\TransferDataToDatabase.Common.csproj", "{2DDDD415-8036-4C57-9729-09011E3D0780}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3FF12DF1-A152-4E43-8250-DA9FFCE422B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FF12DF1-A152-4E43-8250-DA9FFCE422B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FF12DF1-A152-4E43-8250-DA9FFCE422B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FF12DF1-A152-4E43-8250-DA9FFCE422B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2DDDD415-8036-4C57-9729-09011E3D0780}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DDDD415-8036-4C57-9729-09011E3D0780}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DDDD415-8036-4C57-9729-09011E3D0780}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DDDD415-8036-4C57-9729-09011E3D0780}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EA2FFBC8-9922-497E-A6E3-566B49C96491}
+	EndGlobalSection
+EndGlobal
